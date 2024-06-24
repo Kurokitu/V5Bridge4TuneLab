@@ -60,11 +60,11 @@ string get_lang_phoneme(int langid, string lyric)
 ```
 
 - Input variable langid, the type is integer, the value range is 0-4, with specific values defined as follows:
-  - 0. Japanese
-  - 1. English
-  - 2. Korean
-  - 3. Spanish
-  - 4. Mandarin Chinese
+  - 0.Japanese
+  - 1.English
+  - 2.Korean
+  - 3.Spanish
+  - 4.Mandarin Chinese
 - For the input variable lyric, the content is the lyrics entered for the note, the type is a string, with no extra spaces or line breaks at the beginning and end.
 - For the output variable, the content is the phoneme symbols separated by spaces, the type is a string, with no extra spaces or line breaks at the beginning and end.
 
