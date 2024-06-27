@@ -8,11 +8,11 @@ This is an extension that allows you to tune the voicebanks supported by VOCALOI
 - Then enjoy it!
 
 # G2PAScript
-After version 1.3.1, you can use custom G2PA to convert lyrics to phonemes, and the plugin comes with some default scripts by default.  
+After version 1.3.x, you can use custom G2PA to convert lyrics to phonemes, and the plugin comes with some default scripts by default.  
 If you need to develop your own phoneme conversion script, please refer to this: [Doc](https://github.com/Kurokitu/V5Bridge4TuneLab/tree/main/G2PAScriptDevelopmentDocumentation)  
 The Chinese version of the document shall prevail, and the English version may not be standard.  
 
-## 1.3.1
+## The Ext 1.3.x
 Fixed the issue with recognizing Korean lyrics input and corrected the LangID for Korean and Spanish. Now, Korean can also be input using Romanization.  
 ⚠The incorrect G2PAScript development documentation has also been corrected. Please obtain the new documentation from the repository homepage.  
 
